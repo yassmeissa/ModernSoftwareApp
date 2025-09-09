@@ -14,3 +14,5 @@ jobs:
       - run: dotnet test --no-build --verbosity normal
       - name: Check code formatting
         run: dotnet format --verify-no-changes
+      - name: Read secret
+        run: echo "Secret value is ${{ secrets.MY_SECRET }}"
