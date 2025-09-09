@@ -1,0 +1,14 @@
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/bin/Debug/net8.0/ModernSoftwareApp
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/bin/Debug/net8.0/ModernSoftwareApp.deps.json
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/bin/Debug/net8.0/ModernSoftwareApp.runtimeconfig.json
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/bin/Debug/net8.0/ModernSoftwareApp.dll
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/bin/Debug/net8.0/ModernSoftwareApp.pdb
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.AssemblyInfoInputs.cache
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.AssemblyInfo.cs
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.csproj.CoreCompileInputs.cache
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.dll
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/refint/ModernSoftwareApp.dll
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.pdb
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.genruntimeconfig.cache
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ref/ModernSoftwareApp.dll
