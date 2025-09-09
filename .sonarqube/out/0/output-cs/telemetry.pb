@@ -1,0 +1,1 @@
+dRN/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/ModernSoftwareApp.csproj¢net8.0òCSharp12

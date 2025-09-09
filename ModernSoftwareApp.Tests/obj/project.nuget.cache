@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "J5BaPrwFaJ0=",
+  "dgSpecHash": "XN+05qZK5uA=",
   "success": true,
   "projectFilePath": "/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp.Tests/ModernSoftwareApp.Tests.csproj",
   "expectedPackageFiles": [
@@ -94,12 +94,5 @@
     "/Users/yassmeissa/.nuget/packages/xunit.extensibility.execution/2.5.3/xunit.extensibility.execution.2.5.3.nupkg.sha512",
     "/Users/yassmeissa/.nuget/packages/xunit.runner.visualstudio/2.5.3/xunit.runner.visualstudio.2.5.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/yassmeissa/.local/share/NuGet/http-cache' is denied."
-    }
-  ]
+  "logs": []
 }

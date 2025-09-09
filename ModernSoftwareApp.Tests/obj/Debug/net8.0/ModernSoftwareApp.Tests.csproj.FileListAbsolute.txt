@@ -102,3 +102,4 @@
 /Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp.Tests/obj/Debug/net8.0/ModernSoftwareApp.Tests.pdb
 /Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp.Tests/obj/Debug/net8.0/ModernSoftwareApp.Tests.genruntimeconfig.cache
 /Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp.Tests/obj/Debug/net8.0/ref/ModernSoftwareApp.Tests.dll
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp.Tests/obj/Debug/net8.0/ModernSoftwareApp.Tests.sourcelink.json

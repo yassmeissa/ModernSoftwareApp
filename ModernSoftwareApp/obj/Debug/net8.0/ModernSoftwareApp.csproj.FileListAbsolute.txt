@@ -12,3 +12,4 @@
 /Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.pdb
 /Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.genruntimeconfig.cache
 /Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ref/ModernSoftwareApp.dll
+/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp/obj/Debug/net8.0/ModernSoftwareApp.sourcelink.json

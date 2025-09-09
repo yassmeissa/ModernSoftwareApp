@@ -1,0 +1,1 @@
+pRZ/Users/yassmeissa/ModernSoftwareApp/ModernSoftwareApp.Tests/ModernSoftwareApp.Tests.csproj¢net8.0òCSharp12

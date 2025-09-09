@@ -18,3 +18,5 @@ jobs:
         run: echo "Secret value is ${{ secrets.MY_SECRET }}"
       - name: Simulated deploy
         run: bash ./deploy.sh
+      - name: Check code formatting
+        run: dotnet format --verify-no-changes
